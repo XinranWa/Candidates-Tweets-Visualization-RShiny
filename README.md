@@ -1,1 +1,2 @@
-# Candidates-Tweets-Visualization-RShiny
+Candidates Tweets Visualization RShiny
+This is a RShiny app that visualizes the 2016 US presidential election candidates discussion on Twitter by volume, proportion, proportion of positive tweets and retweet frequency. It includes four major candidates with the time span of 32 days. Each dot in the graph represents one day of tweets pertaining to a chosen candidate with size proportional to the volume. By clicking on the dot, actual counts and relative frequency to other candidates are shown. 
